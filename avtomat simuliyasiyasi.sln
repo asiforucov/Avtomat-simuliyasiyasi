@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avtomat simuliyasiyasi", "avtomat simuliyasiyasi\avtomat simuliyasiyasi.csproj", "{2D7D6FC6-5CC2-4737-9399-549571FCEB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7D6FC6-5CC2-4737-9399-549571FCEB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7D6FC6-5CC2-4737-9399-549571FCEB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7D6FC6-5CC2-4737-9399-549571FCEB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7D6FC6-5CC2-4737-9399-549571FCEB37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A332D95D-D3FA-4221-B136-7E10E37C8B21}
+	EndGlobalSection
+EndGlobal
